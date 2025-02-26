@@ -7,10 +7,10 @@
 The original YouTube miniplayer keeps the video stuck on the same page, which can limit your browsing experience. TrueMiniplayer intercepts the native miniplayer button click and instead activates Chrome’s native Picture-in-Picture mode, letting you watch videos while using other tabs or applications.
 
 ### Old Behavior
-![Old Miniplayer](https://github.com/sawyershoemaker/true-miniplayer/demo/old_miniplayer.gif)
+![Old Miniplayer](https://raw.githubusercontent.com/sawyershoemaker/true-miniplayer/main/demo/old_miniplayer.gif)
 
 ### New Behavior
-![New Miniplayer](https://github.com/sawyershoemaker/true-miniplayer/new_miniplayer.gif)
+![New Miniplayer](https://raw.githubusercontent.com/sawyershoemaker/true-miniplayer/main/demo/new_miniplayer.gif)
 
 ## Installation
 1. **Clone the repository:**
