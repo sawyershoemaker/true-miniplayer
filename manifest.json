@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "TrueMiniplayer",
+    "version": "1.0",
+    "description": "Replaces YouTube's native miniplayer with Chrome's built-in Picture-in-Picture mode.",
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "permissions": [
+      "tabs"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/watch*"],
+        "js": ["content.js"],
+        "run_at": "document_end"
+      }
+    ],
+    "action": {
+      "default_icon": "icon.png"
+    }
+  }
+  
