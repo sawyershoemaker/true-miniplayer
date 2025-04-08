@@ -27,10 +27,6 @@ The original YouTube miniplayer keeps the video stuck on the same page, which ca
    - Navigate to any YouTube video page.
    - Click the miniplayer button to activate Chrome’s Picture-in-Picture mode.
 
-## Files
-- **manifest.json**: Contains configuration details for the extension.
-- **content.js**: The content script that overrides YouTube's miniplayer button.
-- **icon.png**: The extension icon displayed in Chrome.
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
